@@ -1,0 +1,14 @@
+C:\Users\irock\source\repos\AssignmentTwo\AssignmentTwo\bin\Debug\AssignmentTwo.exe.config
+C:\Users\irock\source\repos\AssignmentTwo\AssignmentTwo\bin\Debug\AssignmentTwo.exe
+C:\Users\irock\source\repos\AssignmentTwo\AssignmentTwo\bin\Debug\AssignmentTwo.pdb
+C:\Users\irock\source\repos\AssignmentTwo\AssignmentTwo\obj\Debug\AssignmentTwo.csprojAssemblyReference.cache
+C:\Users\irock\source\repos\AssignmentTwo\AssignmentTwo\obj\Debug\AssignmentTwo.csproj.CoreCompileInputs.cache
+C:\Users\irock\source\repos\AssignmentTwo\AssignmentTwo\obj\Debug\AssignmentTwo.exe
+C:\Users\irock\source\repos\AssignmentTwo\AssignmentTwo\obj\Debug\AssignmentTwo.pdb
+C:\Users\Jaska\Downloads\AssignmentTwo\AssignmentTwo\AssignmentTwo\bin\Debug\AssignmentTwo.exe.config
+C:\Users\Jaska\Downloads\AssignmentTwo\AssignmentTwo\AssignmentTwo\bin\Debug\AssignmentTwo.exe
+C:\Users\Jaska\Downloads\AssignmentTwo\AssignmentTwo\AssignmentTwo\bin\Debug\AssignmentTwo.pdb
+C:\Users\Jaska\Downloads\AssignmentTwo\AssignmentTwo\AssignmentTwo\obj\Debug\AssignmentTwo.csprojAssemblyReference.cache
+C:\Users\Jaska\Downloads\AssignmentTwo\AssignmentTwo\AssignmentTwo\obj\Debug\AssignmentTwo.csproj.CoreCompileInputs.cache
+C:\Users\Jaska\Downloads\AssignmentTwo\AssignmentTwo\AssignmentTwo\obj\Debug\AssignmentTwo.exe
+C:\Users\Jaska\Downloads\AssignmentTwo\AssignmentTwo\AssignmentTwo\obj\Debug\AssignmentTwo.pdb
